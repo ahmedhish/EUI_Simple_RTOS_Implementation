@@ -2,7 +2,7 @@
 
  | Name  | Code |
 | ------------- | ------------- |
-| Ahmed Hisham  | 1023  |
+| Ahmed Hisham Farouk  | 1023  |
 | Azza Saeed Mohammed  | 912  |
 
 video link is [here](https://youtu.be/7ebfoUO-ruQ)
